@@ -17,6 +17,10 @@ body {
     user-select: none !important;
 }
 
+a {
+    text-decoration: none;
+}
+
 .Project {
     width: 100vw;
     height: 65vh;
@@ -129,4 +133,8 @@ body {
 
 .lucide {
     color: white !important;
+}
+
+.Verifacation-Process {
+
 }

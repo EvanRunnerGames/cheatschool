@@ -10,9 +10,3 @@ document.addEventListener('keydown', function (e) {
     console.log("Can't do that");
   });
   
-  // Block left-click (mouse click)
-  document.addEventListener('click', function (e) {
-    e.preventDefault();
-    console.log("Can't do that");
-  });
-  
